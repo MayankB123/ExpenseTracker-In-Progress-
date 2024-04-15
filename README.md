@@ -1,8 +1,6 @@
-# ExpenseTracker-In-Progress-
-Expense Tracker App
+# Expense Tracker App
 
-
-### Author - Mayank Bajpai
+# Author - Mayank Bajpai
 
 
 ## Running the Tests
