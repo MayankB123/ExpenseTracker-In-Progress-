@@ -3,5 +3,5 @@ Expense Tracker App
 
 # Author - Mayank Bajpai
 
-To install packages:
+## Running the Tests
 ### `pip install -r requirements.txt`
